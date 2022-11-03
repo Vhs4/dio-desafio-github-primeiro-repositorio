@@ -3,11 +3,13 @@ Desafio de projeto sobre Git/Github
 
 Desafio de criar um projeto, então decidi criar um jogo da velha.
 
+![preview](./assets/example.gif)
+
 ## 💻 Tecnologias
 
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git e Github
 
 ## 📩 Contato 
